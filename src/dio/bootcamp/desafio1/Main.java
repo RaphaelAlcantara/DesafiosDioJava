@@ -11,4 +11,4 @@ public class Main {
         int K = minutos* 2  ;
         System.out.printf("%d minutos\n",K); // Digite aqui o calculo dos minutos
     }
-}
+};
