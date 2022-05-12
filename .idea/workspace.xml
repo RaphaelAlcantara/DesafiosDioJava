@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9114142e-d32d-4dd0-a144-6f09581bf985" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/desafio1/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1/src/dio/bootcamp/desafio2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/desafio1/src/dio/bootcamp/desafio3/Problem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio1/out/production/desafio1/dio/bootcamp/desafio1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +42,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
   <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:\Program Files\Java\jdk1.8.0_321\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="dio.bootcamp.desafio1.Main" />
       <module name="Desafio" />
       <extension name="coverage">
@@ -77,6 +78,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
@@ -94,6 +99,7 @@
       <updated>1648926947148</updated>
       <workItem from="1648926951174" duration="3319000" />
       <workItem from="1649365388511" duration="6000" />
+      <workItem from="1651712912095" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1648929552026</created>
