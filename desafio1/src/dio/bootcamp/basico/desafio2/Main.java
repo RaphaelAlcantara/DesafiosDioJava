@@ -1,4 +1,4 @@
-package dio.bootcamp.desafio2;
+package dio.bootcamp.basico.desafio2;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package dio.bootcamp.desafio3;
+package dio.bootcamp.basico.desafio3;
 
 import java.io.IOException;
 import java.util.Scanner;
